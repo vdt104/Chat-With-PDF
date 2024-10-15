@@ -1,4 +1,4 @@
-# RAG_website_with_LangGraph# First Time Setup
+# Setup
 
 ## Using Pipenv [Recommended]
 
