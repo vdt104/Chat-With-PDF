@@ -1,3 +1,7 @@
+# Demo Video
+
+https://github.com/user-attachments/assets/19930f7d-c3de-4896-a3e6-253a3184afdb
+
 # Setup
 
 ## Using Pipenv [Recommended]
