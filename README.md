@@ -1,6 +1,6 @@
 # Demo Video
 
-https://github.com/user-attachments/assets/ea7b4ed5-8c25-45d3-9fdb-a016a8fa7c9f
+https://github.com/user-attachments/assets/19930f7d-c3de-4896-a3e6-253a3184afdb
 
 # Setup
 
